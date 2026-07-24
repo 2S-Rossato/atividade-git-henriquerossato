@@ -1,0 +1,3 @@
+my name is Henrique Rossato
+Curso Técnico em Desenvolvimento de Sistemas
+Aprender git é útil para gerenciar as versões do código
